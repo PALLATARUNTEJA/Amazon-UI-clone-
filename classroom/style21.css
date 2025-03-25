@@ -14,14 +14,12 @@
 .nav-logo{
     height: 50px;
     width: 100px;
-
 }
 .logo{
     background-image: url("amazon_logo.png");
     height: 50px;
     width: 100px;
-    background-size:cover ;
-
+    background-size:cover 
 }
 .border{
     border: 1.5px solid transparent;
@@ -221,10 +219,8 @@ ul a{
 
 }
 .pages{
-    
     padding-top: 25px;
 }
 .copyright{
-
     padding-top: 5px;
 }
